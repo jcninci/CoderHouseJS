@@ -358,3 +358,17 @@ body header nav form button:hover {
     padding: 10px;
     text-decoration: none;
 }
+
+
+
+
+/* funciones agregadas por ruben */
+
+.carrito {
+    display: flex;
+}
+
+#menu {
+    display: flex;
+    align-items: center;
+}
